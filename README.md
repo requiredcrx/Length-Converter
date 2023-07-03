@@ -1,4 +1,4 @@
-# Length Converter
+# Mile to Km Converter
 
 Day 27 project of the 100days of code challenge. It's a simple length converter built using Tkinter, a Python GUI toolkit.
 
